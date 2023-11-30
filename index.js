@@ -26,3 +26,6 @@
 // Ingresso: [1,1,0,0,1,1,0,0,1,1] Uscita: 0
 
 // Ingresso: [-1,52,-2,2,-3,3,4,76,80,-67] Uscita: -1
+
+function findIndexOfOne(numbersArray) {
+}
